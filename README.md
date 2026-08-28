@@ -26,3 +26,6 @@ Replace it with everything in the folder called code so it looks like this:
 <img width="1920" height="1080" alt="Screenshot 2026-08-28 at 12 14 24 PM (2)" src="https://github.com/user-attachments/assets/9d81d255-96f5-40ac-b8f0-d539884f1fc1" />
 <br></br>
 Enjoy!
+
+## Images:
+<img width="1228" height="916" alt="Screenshot 2026-08-28 at 12 24 07 PM" src="https://github.com/user-attachments/assets/9f73c4b3-65e4-411f-b088-4195e79cb881" />
